@@ -1,0 +1,13 @@
+{
+  "name": "mjolnear-sdk",
+  "version": "1.0.0",
+  "description": "JavaScript SDK for Mjolnear marketplace",
+  "main": "index.js",
+  "repository": "https://github.com/MjolNear/mjolnear-sdk.git",
+  "author": "danielto1404 <daniilkorolev00@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.3"
+  }
+}
